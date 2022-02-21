@@ -1,0 +1,75 @@
+Day-01[21-02-2022]:
+===================
+	Good Morning to All...
+
+	Python Downloads:
+	==================
+		- https://python.org
+		- Downloads
+		- Select Your Operating System
+		- Two columns
+		- Cntrl + f => python 3.x
+		- stable release and pre release
+		- we need to select on stable release side 
+		- we need to click on "downloads x86-64 executeable installer" for 64 bit os
+		- If it is 32 bit we need to click on "downloads x86 executeable installer"
+
+	Python Installation:
+	====================
+		- We need to double tap on the downloaded software of python
+		- It will displays a window with 2 options and 2 checkboxes
+		- Two options such as
+			=> install now [system defined path]
+			=> custom installation [User defined path]
+		- Two checkboxes
+			=> User Permissions
+			=> Add python in environment variables
+		- We need to select those two checkboxes and prefer to click on "Install now"
+		- Then finally it installs automatically in the selected folder of a python
+
+	Different ways to execute a python program:
+	===========================================
+		- Basic Procedure [Notepad,Interpreter]
+		- Advanced Editor
+		- IDLE
+		- Jupyter notebook
+
+	Basic Procedure:
+	================
+		- Notepad,Cmd
+		- filename.py
+		- python filename.py
+
+	Advanced Editor:
+	================
+		- Notepad++,Sublime,Atom,Geany,Editplus etc.,
+
+	IDLE:[Integrated Development Learning Environment]:
+		- Temporary or permanent code can be executed
+
+	Pip:
+	====
+		- To install Third party packages we need to use pip
+	
+	Pip Version Check:
+	==================
+		- cmd
+		- pip -V 
+
+	Jupyter Notebook:
+	=================
+		- cmd
+		- pip install jupyter notebook
+		- python -m pip install --upgrade pip
+		- pip install jupyter notebook
+
+		Run
+		====
+		- cmd
+		- jupyter notebook
+		
+
+
+
+
+
