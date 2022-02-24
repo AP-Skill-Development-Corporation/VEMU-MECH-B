@@ -15,3 +15,6 @@
   - Control Statements with sample examples on each
   - Jumping statements with sample examples on each
   - Practiced some hackerrank problems upto Conditional Statements
+
+## Day-04(24-02-2022):
+  - Revised yesterdays Topic and practiced some hackerrank problems 
