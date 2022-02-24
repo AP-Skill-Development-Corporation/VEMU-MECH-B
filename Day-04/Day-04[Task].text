@@ -1,0 +1,24 @@
+Task:
+=====
+	- Concepts:
+	===========
+		- Inner Loops
+		- All Data Structures [List,Tuple,Set,String and Dictionary]
+
+
+	Task-1:
+	=======
+		Use While Loop
+		Input-1:
+			4785965
+		Output-1:
+			Given number is: 4785965
+			Left Half reverse is: 8745965
+			Right Half reverse is: 4785569
+
+		Input-2:
+			1258
+		Output-2:
+			Given number is: 1258
+			Left Half reverse is: 2158
+			Right Half reverse is: 1285

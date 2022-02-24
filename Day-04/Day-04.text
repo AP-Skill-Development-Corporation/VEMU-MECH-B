@@ -1,0 +1,54 @@
+Day-04[24-02-2022]:
+===================
+	Good Morning to All..
+
+	w = input("Enter Username: ")
+	p = input("Enter Password: ")
+	if w == "sample@gmail.com":
+		if p == "124":
+			print("Welcome user {}".format(w))
+		else:
+			print("Invalid Username or password")
+	else:
+		print("Invalid Username or password")
+
+
+
+	w = input("Enter Username: ")
+	p = input("Enter Password: ")
+	if w == "sample@gmail.com" and p == "124":
+		print("Welcome user {}".format(w))
+	else:
+		print("Invalid Username or password")	
+
+	u = input("Enter Username: ")
+	if u == "ramu@gmail.com":
+		p = input("Enter Password: ")
+		if p == "0415":
+			print("Welcome user {}".format(u))
+		else:
+			print("Invlaid Password")
+	else:
+		print("Invalid Username {}".format(u))
+
+
+for iterationvariablename in range(start,stop,step):
+	//stmnts
+
+		or 
+
+for iterationvariablename in iterator:
+	//stmnts
+
+	While
+	
+
+
+
+
+
+
+
+
+
+
