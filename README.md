@@ -18,3 +18,7 @@
 
 ## Day-04(24-02-2022):
   - Revised yesterdays Topic and practiced some hackerrank problems 
+
+## Day-05(25-02-2022):
+  - Function and its types with sample examples on each
+  - Function and its argument types with sample examples on each
